@@ -1,1 +1,2 @@
 First commit for rebase test
+Second commit for rebase test
