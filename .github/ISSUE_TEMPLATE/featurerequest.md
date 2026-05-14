@@ -1,7 +1,9 @@
+---
 name: Feature Request
-description: Suggest a new feature for this project
+about: Suggest a new feature for this project
 title: "[Feature]: "
 labels: ["enhancement"]
+assignees: Jason183763
 body:
   - type: input
     id: name
@@ -19,8 +21,8 @@ body:
         - New Feature
         - Improvement
         - Documentation
-    validations:
-      required: true
+      validations:
+        required: true
 
   - type: dropdown
     id: os
@@ -40,3 +42,4 @@ body:
       placeholder: Feature details!
     validations:
       required: true
+---
