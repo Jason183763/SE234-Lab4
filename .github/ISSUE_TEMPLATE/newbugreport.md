@@ -1,6 +1,6 @@
 ---
 name: newBugReport
-about: File a bug report
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
@@ -12,7 +12,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - 你的GitHub用户名
+  - Jason183763
 body:
   - type: markdown
     attributes:
